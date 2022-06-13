@@ -6,4 +6,5 @@ h1 {
 .menu {
     display: block;
     background-color: darkseagreen;
+    height: 100px;
 }
